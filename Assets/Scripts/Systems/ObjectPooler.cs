@@ -12,6 +12,8 @@ public class ObjectPooler : MonoBehaviour
         public int size;
     }
 
+    // Scriptable objects instead?
+
     #region Singleton
     public static ObjectPooler Instance;
 

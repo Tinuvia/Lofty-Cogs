@@ -740,9 +740,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19bf94de595fcae4c8b2fac7dcb79548, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameOver: 0
   floatForce: 5
-  explosionParticle: {fileID: 0}
-  fireworksParticle: {fileID: 0}
   moneySound: {fileID: 0}
   explodeSound: {fileID: 0}
+  explosionParticle: {fileID: 0}
+  fireworksParticle: {fileID: 0}
+  cogs: 0
+  playerHealth: 0
